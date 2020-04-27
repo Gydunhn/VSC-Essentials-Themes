@@ -1,0 +1,73 @@
+{
+    "name": "vsc-essentials-themes",
+    "displayName": "VSC-Essentials-Themes",
+    "description": "The Essential Themes for visual studio code",
+    "icon": "img/essentials.png",
+    "galleryBanner": {
+        "color": "#53595e",
+        "theme": "dark"
+    },
+    "license": "LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gydunhn/VSC-Essentials-Themes.git"
+    },
+    "keywords": [
+        "VSC",
+        "VSCode",
+        "Visual Studio",
+        "VSC Essentials",
+        "VSC Essentials Themes",
+        "Essentials",
+        "Themes",
+        "Icon Theme",
+        "Material Icon",
+        "Material Icon Theme",
+        "Output",
+        "Colorizer",
+        "Output Colorizer",
+        "Cobalt",
+        "Cobalt2",
+        "Cobalt2 Theme",
+        "Cobalt2 Theme Official",
+        "Dracula",
+        "Dracula Official",
+        "Panda",
+        "Panda Theme",
+        "Monokai",
+        "Monokai Pro",
+        "Atom",
+        "One",
+        "Dark",
+        "One Dark",
+        "Atom One Dark",
+        "Atom One Dark Theme",
+        "Nüshu",
+        "Nüshu Preview",
+        "Gruvbox",
+        "Concoctis",
+        "Gruvbox Concoctis",
+        "Gydunhn",
+        "TeamElite",
+        "Team Elite"
+    ],
+    "version": "0.0.0",
+    "publisher": "Gydunhn",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "PKief.material-icon-theme",
+        "IBM.output-colorizer",
+        "wesbos.theme-cobalt2",
+        "dracula-theme.theme-dracula",
+        "tinkertrain.theme-panda",
+        "monokai.theme-monokai-pro-vscode",
+        "akamud.vscode-theme-onedark",
+        "wheredoesyourmindgo.nushu-vscode-theme",
+        "wheredoesyourmindgo.gruvbox-concoctis"
+    ]
+}
