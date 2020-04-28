@@ -6,7 +6,7 @@ This extension pack for Visual Studio Code adds extensions that are useful for a
 
 ## Reasons
 
-The [VSC Essentials Themes Pack] was made to automate and standardize the installation phase of the essential extensions for Visual Studio Code every time a new member joins the team, or one of them restores a laptop, or exchanges it for a new one.
+The [VSC Essentials Themes Pack] was made to automate and standardize the installation phase of the essential themes for Visual Studio Code every time a new member joins the team, or one of them restores a laptop, or exchanges it for a new one.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
