@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2020-04-29
+
+### Fixed
+
+* Change Log Tags Links
+
 ## [0.1.0] - 2020-04-29
 
 ### Removed
@@ -33,4 +39,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/VSC-Essentials-Themes/tree/develop
+[0.1.1]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.1.1
+[0.1.0]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.1.0
+[0.0.3]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.0.3
+[0.0.2]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.0.1
