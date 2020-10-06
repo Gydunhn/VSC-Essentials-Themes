@@ -53,7 +53,7 @@
     "version": "0.1.2",
     "publisher": "Gydunhn",
     "engines": {
-        "vscode": "^1.44.0"
+        "vscode": "^1.35.0"
     },
     "categories": [
         "Extension Packs"
