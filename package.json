@@ -60,12 +60,15 @@
     ],
     "extensionPack": [
         "PKief.material-icon-theme",
+        "PKief.material-product-icons",
         "IBM.output-colorizer",
         "wesbos.theme-cobalt2",
         "dracula-theme.theme-dracula",
         "tinkertrain.theme-panda",
         "akamud.vscode-theme-onedark",
         "wheredoesyourmindgo.nushu-vscode-theme",
-        "wheredoesyourmindgo.gruvbox-concoctis"
+        "wheredoesyourmindgo.gruvbox-concoctis",
+        "fabiospampinato.vscode-monokai-night",
+        "enkia.tokyo-night"
     ]
 }

@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4] - 2022-10-14
+
+### Added
+
+* Material Product Icons
+* Monokai Night Theme
+* Tokyo Night
+
 ## [0.1.3] - 2020-10-06
 
 ### Changed
