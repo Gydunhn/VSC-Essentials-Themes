@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2023-02-01
+
+### Added
+
+* Gruvbox Material Icon Theme
+* Nomo Dark Icon Theme
+* Oceanic Next
+* rainbow Theme
+* Dreamweaver Web Theme
+* Oldschool Theme
+* Winter is Coming Theme
+* Shades of Purple
+* Night Owl
+* Ayu
+* Palenight Theme
+* SynthWave '84
+* Noctis
+* GitHub Theme
+* Sandstorm Color Theme
+* One Dark Pro
+* One Dark Pro Lite
+* Sublime Material Theme
+
 ## [0.1.4] - 2022-10-14
 
 ### Added
@@ -59,6 +82,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/VSC-Essentials-Themes/tree/develop
+[0.2.0]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.2.0
+[0.1.4]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.1.4
 [0.1.3]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.1.3
 [0.1.2]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.1.2
 [0.1.1]: https://github.com/Gydunhn/VSC-Essentials-Themes/releases/tag/0.1.1
