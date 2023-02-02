@@ -105,16 +105,28 @@
 		"Platzi",
 		"Platzi Theme",
 		"Outrun meets Synthwave",
+		"Andromeda",
+		"C",
+		"C++",
+		"C/C++ Themes",
+		"eppz!",
+		"C#",
+		"Unity",
+		"eppz! (C# theme for Unity)",
+		"Monodevelop",
+		"Monodevelop Monokai for C#",
 		"Gydunhn",
 		"Elite"
 	],
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"publisher": "Gydunhn",
 	"engines": {
 		"vscode": "^1.35.0"
 	},
 	"categories": [
-		"Extension Packs"
+		"Extension Packs",
+		"Themes",
+		"Other"
 	],
 	"extensionPack": [
 		"PKief.material-icon-theme",
@@ -149,6 +161,10 @@
 		"jprestidge.theme-material-theme",
 		"samrapdev.outrun",
 		"codevars.platzi-theme-for-vs-code",
-		"codevars.outrun-meets-synthwave"
+		"codevars.outrun-meets-synthwave",
+		"EliverLara.andromeda",
+		"ms-vscode.cpptools-themes",
+		"eppz.eppz-code",
+		"AryanAhire.monodevelop-monokai"
 	]
 }
