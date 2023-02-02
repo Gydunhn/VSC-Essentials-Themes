@@ -101,10 +101,14 @@
 		"One Dark Pro Lite",
 		"Sublime",
 		"Sublime Material Theme",
+		"OutRun",
+		"Platzi",
+		"Platzi Theme",
+		"Outrun meets Synthwave",
 		"Gydunhn",
 		"Elite"
 	],
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"publisher": "Gydunhn",
 	"engines": {
 		"vscode": "^1.35.0"
@@ -142,6 +146,9 @@
 		"Bardleware.sandstorm",
 		"zhuangtongfa.Material-theme",
 		"zhuangtongfa.One-dark-pro",
-		"jprestidge.theme-material-theme"
+		"jprestidge.theme-material-theme",
+		"samrapdev.outrun",
+		"codevars.platzi-theme-for-vs-code",
+		"codevars.outrun-meets-synthwave"
 	]
 }
